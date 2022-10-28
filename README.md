@@ -1,5 +1,5 @@
 ## Hi, I’m [@VirajPatidar](https://viraj-patidar.vercel.app/) 👋
-- 💻 I'm a **software engineer** and an **AI/ ML enthusiast**, who is always motivated to solve real world problems using technology.
+- 💻 I'm a **software engineer** and an **AI/ ML enthusiast**, who is motivated to solve real world problems using technology.
 - ⚡ I'm always up for a challenge and open for interesting opportunities.
 - 🔭 Currently working with **Neo4j**, **Django** & **React**.
 - 📚 Learning **GO**  and **Cloud** ☁️.
