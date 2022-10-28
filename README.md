@@ -2,7 +2,7 @@
 - 💻 I'm a **software engineer** and an **AI/ ML enthusiast**, who is motivated to solve real world problems using technology.
 - ⚡ I'm always up for a challenge and open for interesting opportunities.
 - 🔭 Currently working with **Neo4j**, **Django** & **React**.
-- 📚 Learning **GO**  and **Cloud** ☁️.
+- 📚 Learning **GO**  and **Cloud Technologies**.
 - 🌱 Know more about me [here](https://viraj-patidar.vercel.app/).
 - 📫 Reach out to me on <a href="https://linkedin.com/in/viraj-patidar-966523219/"> <img align="center" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
