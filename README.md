@@ -7,7 +7,6 @@
 - 📫 Reach out to me on <a href="https://linkedin.com/in/viraj-patidar-966523219/"> <img align="center" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
 
-<br>
 <!---
 VirajPatidar/VirajPatidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
