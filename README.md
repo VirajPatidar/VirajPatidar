@@ -4,7 +4,7 @@
 - 🔭 Currently working with **Neo4j**, **Django** & **React**.
 - 📚 Learning **GO**  and **Cloud Technologies**.
 - 🌱 Know more about me [here](https://viraj-patidar.vercel.app/).
-- 📫 Reach out to me on <a href="https://linkedin.com/in/viraj-patidar-966523219/"> <img align="center" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+- 📫 Reach out to me on <a href="https://linkedin.com/in/viraj-patidar-966523219/"> <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
 
 <!---
